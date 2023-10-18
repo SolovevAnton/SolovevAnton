@@ -19,18 +19,27 @@
 </a>
 </p>
 
-<h3 align="left">Java frameworks:</h3>
-<p>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img
-        src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
         width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+<a href="https://openjfx.io" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/JavaFX_Logo.png/120px-JavaFX_Logo.png" alt="JavaFX"
+        width="70" height="40"/> </a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img
+        src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+<a href="https://github.com/FasterXML/jackson" target="_blank" rel="noreferrer">
+  <img src="https://i0.wp.com/automationqahub.com/wp-content/uploads/2022/02/jackson.png" alt="Jackson"
+        width="50" height="50"/> </a>
+<a href="https://junit.org/junit5" target="_blank" rel="noreferrer">
+  <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="Junit"
+        width="40" height="40"/> </a>
+<a href="https://site.mockito.org" target="_blank" rel="noreferrer">
+  <img src="https://github.com/mockito/mockito.github.io/raw/master/img/logo%402x.png" alt="Mockito"
+        width="60" height="40"/> </a>
+  
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
         alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img
