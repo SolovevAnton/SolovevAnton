@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anton</h1>
 <h3 align="center">I'm a Java developer passionate about enhancing my coding skills and exploring new technologies</h3>
  My primary focus is applying my knowledge to real-world projects and practicing new tech on this GitHub profile
- 
-- 🔭 I’m currently working on [Cards REST API](https://github.com/SolovevAnton/Cards_REST_API)
-
-- 🌱 I’m currently learning **Spring framework and JavaScript**
 
 - 📫 How to reach me **solovev.anton93@gmail.com** 
 
