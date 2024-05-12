@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **solovev.anton93@gmail.com** 
 
-- 📄 Know about my experiences [GoogleDriveLink to CV](https://drive.google.com/file/d/16dKw2xngANpTSPIvPNPyqWxmIFsHbyKw/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
